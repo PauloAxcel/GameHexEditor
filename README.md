@@ -2,10 +2,6 @@
 
 PyGameHexEd is a powerful, Cheat Engine-like tool built in Python, designed for memory inspection, modification, and game hacking. It leverages `psutil` for process discovery, `pywin32` for deep memory analysis on Windows, and `pyray` for a responsive and intuitive graphical interface.
 
-It excels at targeting emulators by automatically identifying processes based on a whitelist of known emulator executables.
-
-![Screenshot of PyGameHexEd](https://i.imgur.com/rY43hA2.png)
-
 ## ✨ Core Features
 
 *   **🎮 Emulator-Aware Process Detection:**
